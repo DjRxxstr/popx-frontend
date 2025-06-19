@@ -19,7 +19,7 @@ export default function Profile() {
 
               <div className="relative w-22 h-22">
                 <img
-                  src="profile.png"
+                  src="/profile.png"
                   alt="Profile"
                   className="w-22 h-22 rounded-full object-cover"
                 />
