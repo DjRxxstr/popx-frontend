@@ -5,7 +5,7 @@ export default function Profile() {
   return (
     <div className="min-h-screen flex justify-center bg-background py-6">
       <Card>
-        <div className="flex-grow flex flex-col justify-start font-display text-left text-sm text-gray-700">
+        <div className="overflow-y-auto flex-grow flex flex-col justify-start font-display text-left text-sm text-gray-700">
 
           <div className='bg-white p-5'>
             <p className="text-[17px] text-gray-800">

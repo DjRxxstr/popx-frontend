@@ -8,7 +8,7 @@ export default function Home() {
         <div className="min-h-screen flex justify-center bg-background py-6">
 
             <Card>
-                <div className="flex-grow flex flex-col p-5 justify-end space-y-6">
+                <div className="overflow-y-auto flex-grow flex flex-col px-4 py-5 sm:p-5 justify-end space-y-6">
                     <div className="w-3/4 text-left">
                         <div>
                             <p

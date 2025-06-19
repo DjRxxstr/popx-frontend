@@ -11,7 +11,7 @@ export default function CreateAccount() {
     return (
         <div className="min-h-screen flex justify-center bg-background py-6">
             <Card>
-                <div className="p-5 flex-grow flex flex-col justify-between">
+                <div className="overflow-y-auto px-4 py-5 sm:p-5 flex-grow flex flex-col justify-between">
                     <div className="space-y-6">
                         <div className="text-left w-2/3">
                             <p className="font-display text-[27px] font-bold text-gray-800">

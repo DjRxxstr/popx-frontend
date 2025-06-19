@@ -7,7 +7,7 @@ export default function SignIn() {
   return (
     <div className="min-h-screen flex justify-center bg-background py-6">
       <Card>
-        <div className="p-5 flex-grow flex flex-col justify-start font-display text-left text-sm text-gray-700 space-y-6">
+        <div className="overflow-y-auto px-4 py-5 sm:p-5 flex-grow flex flex-col justify-start font-display text-left text-sm text-gray-700 space-y-6">
 
           <div className="text-left w-3/4">
             <p className="text-[27px] font-bold text-gray-800">
