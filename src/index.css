@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-background: #fafafa;
+  --color-home: #f7f8f9;
+  --color-bordercolor: #eeeeee;
+  --color-buttonA: #6c25ff;
+  --color-buttonB: #cebafb;
+  --font-display: "Inter", "sans-serif"; 
+}
