@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from '../components/Card';
-import profileImage from '../profile.png'
+
 export default function Profile() {
   return (
     <div className="min-h-screen flex justify-center bg-background py-6">
@@ -19,7 +19,7 @@ export default function Profile() {
 
               <div className="relative w-22 h-22">
                 <img
-                  src={profileImage}
+                  src="/profile.PNG"
                   alt="Profile"
                   className="w-22 h-22 rounded-full object-cover"
                 />
